@@ -1,0 +1,171 @@
+  
+ /*
+  .container{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    
+}
+
+.calculator{
+    background-color:darkblue;
+    background: linear-gradient(darkblue,lightskyblue);
+    padding: 15px;
+      border-radius: 10px;   
+     display: grid;
+     grid-template-columns: repeat(4,70px);
+      margin-top: 500px;               
+     }
+
+     input{
+        grid-column: span 4;
+        height: 20px;
+        width: 250px;
+        background-color:lavender;
+        background: linear-gradient(deepskyblue,lightblue);        
+        border: none;
+        border-radius: 10px;
+        color:black;
+        font-size: 40px;
+        text-align: end;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 30px;
+        padding: 20px;
+    }
+
+    button{
+        height: 45px;
+        width:45px;
+        background-color:deepskyblue;
+        border-radius: 10px;
+        background: linear-gradient(deepskyblue,lightblue);
+        margin: 8px;
+        font-size: 18px;
+        color:black;
+    }
+
+    .equal{
+        width: 110px;
+        border-radius: 40px;
+        background-color:snow;
+        
+        color:black;
+    }
+ 
+   */
+
+
+/* [ADDING TWO INPUTS]
+
+   .box input{
+    border-radius: 5PX;
+    background-color:#fff;
+   }
+
+   .box P{
+    text-decoration-color: crimson;
+    font-family: cursive;
+   }
+
+   .box button{
+    margin: 10px;
+    border-radius: 5px;
+    background-color: aquamarine;
+   }
+
+.box h2{
+  font-family: cursive;
+  text-decoration-color: darkmagenta;
+}
+ 
+*/
+
+
+    
+ /*
+ .container{
+    width: 100%;
+    height: 100%;
+    background-color: dodgerblue;
+ }
+
+ ul{
+    list-style: none;
+ }
+
+ ul li{
+    float: left;
+ }
+
+ ul li a{
+    text-decoration: none;
+    margin-left: 100px;
+    padding: 50px;
+    color: #fff;
+    font-size: large;
+    
+ }
+
+ .bikes li img{
+    size: 50px;
+ }
+
+ */
+
+
+ .body{
+   
+   background-color:black;
+
+ }
+
+ .clock{
+   text-align: center;
+   font-size: 70px;
+   background-color:darkblue;
+  color: #fff;
+  min-width: 380px;
+  border: 4px solid darkslateblue;
+  padding: 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: linear-gradient(darkblue,lightskyblue);
+  text-decoration-color: midnightblue;
+  text-shadow:  5px 5px 3px darkblue;
+  
+  
+ }
+
+
+
+/* [CEL TO FAHR CONVERTOR]
+ .wrap{
+   width: 900px;
+   height: 150px;
+   background-color: antiquewhite;
+   text-align: center;
+   margin: 30px;
+   padding-bottom: 40px;
+   
+   background: linear-gradient(burlywood,brown);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   border-radius: 20px;
+ }
+
+ .inputdiv input{
+   background-color: white;
+   text-decoration-color: black;
+   border-radius: 5px ;
+ }
+  
+  .wrap button{
+   border-radius: 5px;
+   margin: 20px;
+ }
+ */
